@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/cyfer/scala/week1/target/scala-2.12/simple-project_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cyfer/scala/week1/target/scala-2.12/classes/WordCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wikipedia[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cyfer/scala/week1/target/scala-2.12/classes/wikipedia[0m
+[0m[[0m[0mdebug[0m] [0m[0m	wikipedia/wikipedia.dat[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cyfer/scala/week1/target/scala-2.12/classes/wikipedia/wikipedia.dat[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cyfer/scala/week1/target/scala-2.12/classes/WordCount$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/cyfer/scala/week1/target/scala-2.12/classes/WordCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
